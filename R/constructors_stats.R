@@ -1,0 +1,18 @@
+#' Data of F1 Constructor Stats 1950 - 2024
+#'
+#' The data set includes the number of points scored by race and the total wins at that point.
+#'
+#' @format A tibble with 13271 obs. and 9 variables:
+#' \describe{
+#'   \item{constructorId}{ID number for the constructor}
+#'   \item{constructor}{name for the constructor}
+#'   \item{constructor_nationality}{Constructor's registured nationality}
+#'   \item{raceId}{ID number for the race}
+#'   \item{constrcutor_points}{total number of points by that constructor}
+#'   \item{constrcutor_wins}{total number of points by that constrcutor}
+#'   \item{circuitId}{ID number for the circuit}
+#'   \item{race_name}{Name of the Race}
+#'   \item{year}{year}
+#' }
+#' @source \url{http://ergast.com/mrd/}
+"constructors_stats"
