@@ -1,0 +1,38 @@
+#' Data of F1 Race Stats 1950 - 2024
+#'
+#' The data set includes the number of points scored by race and the total wins at that point.
+#'
+#' @format A tibble with 34603 obs. and 13 variables:
+#' \describe{
+#'   \item{constructorId}{ID number for the constructor}
+#'   \item{raceId}{ID number for the race}
+#'   \item{driverId}{ID number for the driver}
+#'   \item{circuitId}{ID number for the circuit}
+#'   \item{year}{year}
+#'   \item{circuit}{Name of the circuit}
+#'   \item{country}{Country the circuit is located in}
+#'   \item{alt}{altitude of the circuit}
+#'   \item{points}{total number of points awarded}
+#'   \item{laps}{number of laps completed}
+#'   \item{fastestLapTime}{Fastest lap fo the race}
+#'   \item{fastestLapSpeed}{Fastest lap speed}
+#'   \item{constructor}{name for the constructor}
+#'   \item{constructor_nationality}{Constructor's registured nationality}
+#'   \item{forename}{first name for the driver}
+#'   \item{surname}{Last name for the driver}
+#'   \item{driver_nationality}{Driver's registured nationality}
+#'   \item{status}{The status of the driver at that lap}
+#'   \item{lap_number}{The lap Number}
+#'   \item{time}{total lap time}
+#'   \item{pitlap_number}{lap number of the pit stop}
+#'   \item{pitnumber}{Number of pit stops}
+#'   \item{pit_time}{time of the pit}
+#'   \item{duration}{total time in the pit stop}
+#'   \item{quali_position}{Position at the start of the race}
+#'   \item{q1}{Q1 time}
+#'   \item{q2}{Q2 time}
+#'   \item{q3}{Q3 time}
+#'
+#' }
+#' @source \url{http://ergast.com/mrd/}
+"race_stats"
