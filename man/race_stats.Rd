@@ -3,9 +3,9 @@
 \docType{data}
 \name{race_stats}
 \alias{race_stats}
-\title{Data of F1 Race Stats 1950 - 2024}
+\title{Data of F1 Race Stats 2011 - Summer Break of 2024}
 \format{
-A tibble with 34603 obs. and 13 variables:
+A tibble with 630584 obs. and 30 variables:
 \describe{
 \item{constructorId}{ID number for the constructor}
 \item{raceId}{ID number for the race}
@@ -46,5 +46,6 @@ race_stats
 }
 \description{
 The data set includes the number of points scored by race and the total wins at that point.
+F1 Data 2011 - 2024. F1 is a single-seater auto racing series sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by the Formula One Group.
 }
 \keyword{datasets}
