@@ -1,5 +1,8 @@
 #' Data of F1 Driver Stats 1950 - 2024
 #'
+#' F1 is a single-seater auto racing series sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by the Formula One Group.
+#'
+#'
 #' The data set includes the number of points scored by race and the total wins at that point.
 #'
 #' @format A tibble with 34603 obs. and 13 variables:
