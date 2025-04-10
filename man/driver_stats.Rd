@@ -29,6 +29,9 @@ A tibble with 34603 obs. and 13 variables:
 driver_stats
 }
 \description{
+F1 is a single-seater auto racing series sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by the Formula One Group.
+}
+\details{
 The data set includes the number of points scored by race and the total wins at that point.
 }
 \keyword{datasets}
