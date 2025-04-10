@@ -1,8 +1,9 @@
-#' Data of F1 Race Stats 1950 - 2024
+#' Data of F1 Race Stats 2011 - Summer Break of 2024
 #'
 #' The data set includes the number of points scored by race and the total wins at that point.
+#' F1 Data 2011 - 2024. F1 is a single-seater auto racing series sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by the Formula One Group.
 #'
-#' @format A tibble with 34603 obs. and 13 variables:
+#' @format A tibble with 630584 obs. and 30 variables:
 #' \describe{
 #'   \item{constructorId}{ID number for the constructor}
 #'   \item{raceId}{ID number for the race}
