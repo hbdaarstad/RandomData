@@ -1,9 +1,9 @@
 Package: RandomData
-Title: F1 Data
+Title: POL 051 Data Package
 Version: 0.0.0.9000
 Authors@R: 
     person("Haley", "Daarstad", , "hbdaarstad@ucdavis.edu", role = c("aut", "cre"))
-Description: F1 Data 1950 - 2024. F1 is a single-seater auto racing series sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by the Formula One Group.
+Description: The following data sets are built for the use to help students learn to use R using a varity of different data that interests them. At the moment this includes: ANES 2008 data, ACLED Mexico and Colombia conflict data, F1 Data including on Drivers, Constructors, and Races. 
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
