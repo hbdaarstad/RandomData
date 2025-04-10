@@ -4,9 +4,9 @@
 \name{RandomData-package}
 \alias{RandomData}
 \alias{RandomData-package}
-\title{RandomData: F1 Data}
+\title{RandomData: POL 051 Data Package}
 \description{
-F1 Data 1950 - 2024. F1 is a single-seater auto racing series sanctioned by the Fédération Internationale de l'Automobile (FIA) and owned by the Formula One Group.
+The following data sets are built for the use to help students learn to use R using a varity of different data that interests them. At the moment this includes: ANES 2008 data, ACLED Mexico and Colombia conflict data, F1 Data including on Drivers, Constructors, and Races.
 }
 \author{
 \strong{Maintainer}: Haley Daarstad \email{hbdaarstad@ucdavis.edu}
